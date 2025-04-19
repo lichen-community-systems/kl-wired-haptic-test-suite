@@ -18,3 +18,4 @@ Or, from the SuperCollider GUI:
 3. Select the entire contents of the file
 4. Press Ctrl-Enter (or Cmd-Enter on macOS) to execute the code
 
+![Screenshot of RES(is)T Chair Test Tool](screenshot.png)
